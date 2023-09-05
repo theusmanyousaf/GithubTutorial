@@ -7,5 +7,5 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/theusmanyousaf/GithubTutorial.git
+git remote add origin https://github.com/theusmanyousaf/GithubTutorial.git  // this should be the link of your own  github repository
 git push -u origin main
